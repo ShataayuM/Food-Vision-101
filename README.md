@@ -61,13 +61,5 @@ This project is licensed under the MIT License. See `LICENSE` for more details.
 
 ---
 
-## 🙋‍♂️ Author
 
-Made with ❤️ by **Shataayu Mohanty**
-
----
-
-## 📷 Sample Output
-
-![Sample prediction](sample_output.png) *(Add a sample image if possible)*
 
