@@ -60,6 +60,14 @@ An image classification deep learning project built using **TensorFlow**, **Tran
 
 ---
 
+## ▶️ Run in Google Colab
+
+Click below to open this notebook in **Google Colab**:
+
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/your-username/your-repo-name/blob/main/FoodVision101.ipynb)
+
+---
+
 ## 📄 License
 
 This project is licensed under the MIT License. See `LICENSE` for more details.
