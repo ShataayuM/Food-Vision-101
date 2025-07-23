@@ -43,9 +43,9 @@ An image classification deep learning project built using **TensorFlow**, **Tran
 
 ## 📁 Files in This Repository
 
-- `FoodVision101.ipynb` — Main Jupyter notebook with training and evaluation code
-- `food_model.h5` — Saved complete Keras model
-- `food_model_weights.weights.h5` — Saved model weights
+- `Food_Vision_101.ipynb` — Main Jupyter notebook with training and evaluation code
+- `fine_tuned.h5` — Saved complete Keras model
+- `efficientnetb0_food101_fine_tuned_weights.weights.h5` — Saved model weights
 - `README.md` — Project documentation and usage instructions
 - `food_classes.txt` — List of 101 food class labels
 
